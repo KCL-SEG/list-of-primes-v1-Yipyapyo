@@ -1,9 +1,6 @@
 """List of prime numbers generator."""
 """ENTER YOUR SOLUTION HERE!"""
 
-from cgi import print_arguments
-
-
 def primeNumber(number):
     if number == 0 or number == 1:
         return False
